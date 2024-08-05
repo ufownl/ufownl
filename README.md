@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/dda5442e-82d3-4e33-98f1-d765caa2ae98)
+![banner](https://github.com/user-attachments/assets/c15fabef-51ef-4c8b-86fa-b923c6af69fd)
 
 # 📈 Stats
 
