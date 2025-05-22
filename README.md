@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/c15fabef-51ef-4c8b-86fa-b923c6af69fd)
-
 # 📈 Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ufownl&hide_border=true" alt="RangerUFO's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufownl&langs_count=8&layout=compact&hide_border=true" alt="RangerUFO's Top Langs" /> |
